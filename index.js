@@ -1,3 +1,3 @@
 const name = 'diego'
 
-const dataNascimento = '30/01/1999'
+const dataNascimento = '02/06/1997'
